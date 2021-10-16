@@ -38,19 +38,19 @@ body{
   
 }
 #w{
- background-image : url("/images/tom1.png");
+ background-image : url("images/tom1.png");
  opacity : 90%;
 }
 #a{
- background-image : url("/images/tom2.png");
+ background-image : url("images/tom2.png");
  opacity : 90%;
 }
 #s{
- background-image : url("/images/tom3.png");
+ background-image : url("images/tom3.png");
  opacity : 90%;
 }
 #d{
- background-image : url("/images/tom4.png");
+ background-image : url("images/tom4.png");
  opacity : 90%;
 }
 #q{
@@ -58,10 +58,10 @@ body{
  opacity : 90%;
 }
 #e{
- background-image : url("/images/snare.png");
+ background-image : url("images/snare.png");
  opacity : 90%;
 }
 #f{
- background-image : url("/images/crash.png");
+ background-image : url("images/crash.png");
  opacity : 90%;
 }
