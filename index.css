@@ -65,3 +65,10 @@ body{
  background-image : url("images/crash.png");
  opacity : 90%;
 }
+.pressed{
+
+  box-shadow : 0 10px 10px 0 #DBEDF3;
+
+  opacity : 0.5;
+
+}
