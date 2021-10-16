@@ -1,4 +1,4 @@
-varvar totalButtons = document.querySelectorAll(".btn").length;
+var totalButtons = document.querySelectorAll(".btn").length;
 for(var i=0 ; i < totalButtons ; i++){
   document.querySelectorAll(".btn")[i].addEventListener("click", function (){
     var innerHtml = this.innerHTML;
